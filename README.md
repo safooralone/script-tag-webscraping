@@ -35,8 +35,3 @@ It uses **Requests** and **BeautifulSoup** to fetch and parse HTML content, then
 git clone https://github.com/safooralone/script-tag-webscraper.git
 cd script-tag-webscraper
 
-
-
-
-```bash
-pip install requests beautifulsoup4 pandas openpyxl
